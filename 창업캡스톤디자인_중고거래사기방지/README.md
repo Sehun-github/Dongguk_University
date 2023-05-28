@@ -1,4 +1,4 @@
-* ### [창업캡스톤디자인_중고거래사기방지.pdf](https://github.com/Sehun-github/Dongguk_University/files/11583802/_.pdf)
+* ### [창업캡스톤디자인_중고거래사기방지.pdf](https://github.com/Sehun-github/Dongguk_University/files/11583860/_.pdf)
 ![슬라이드1](https://github.com/Sehun-github/Dongguk_University/assets/62082124/bc7eea5d-2702-4b65-98e4-a971109d5a75)
 ![슬라이드2](https://github.com/Sehun-github/Dongguk_University/assets/62082124/a0782547-1096-4db3-9f04-6389964ad163)
 ![슬라이드3](https://github.com/Sehun-github/Dongguk_University/assets/62082124/bb818ac2-8122-4732-b0c2-3fe0de29002e)
