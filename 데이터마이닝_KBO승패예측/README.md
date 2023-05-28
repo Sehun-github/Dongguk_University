@@ -1,5 +1,6 @@
 
 * ### [데이터마이닝_KBO승패예측.pdf](https://github.com/Sehun-github/Dongguk_University/files/11583821/_KBO.pdf)
+* ## ㅁㅁ
 ![슬라이드1](https://github.com/Sehun-github/Dongguk_University/assets/62082124/ae545284-2ecd-4385-84d5-c8d2c680f6dc)
 ![슬라이드2](https://github.com/Sehun-github/Dongguk_University/assets/62082124/bbea05ba-d506-4bb7-949c-ec2b75e2d1f4)
 ![슬라이드3](https://github.com/Sehun-github/Dongguk_University/assets/62082124/fb177ded-395d-4e1f-816f-d4e2a05fe6d7)
