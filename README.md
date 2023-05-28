@@ -1,7 +1,7 @@
 # Dongguk_University
 > 동국대학교 프로젝트 결과물입니다.
 
-* [데이터 마이닝_KBO승패예측](https://github.com/Sehun-github/Dongguk_University/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D_KBO%EC%8A%B9%ED%8C%A8%EC%98%88%EC%B8%A1.pptx)
+* [데이터 마이닝_KBO승패예측](https://github.com/Sehun-github/Dongguk_University/blob/main/데이터마이닝_KBO승패예측)
 ------------------------------
 * [산업AI_딥러닝을통한이미지분류](https://github.com/Sehun-github/Dongguk_University/blob/main/%EC%82%B0%EC%97%85AI_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%ED%86%B5%ED%95%9C%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B6%84%EB%A5%98.pptx)
 ------------------------------
